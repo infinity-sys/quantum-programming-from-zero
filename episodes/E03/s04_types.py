@@ -1,0 +1,5 @@
+print(type(2))
+print(type(0.6))
+print(type("qubit"))
+print(5 + 5)
+print("5" + "5")

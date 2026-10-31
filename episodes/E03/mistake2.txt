@@ -1,0 +1,4 @@
+  File "/tmp/py/mistake2.py", line 1
+    for i in range(3)
+                     ^
+SyntaxError: expected ':'

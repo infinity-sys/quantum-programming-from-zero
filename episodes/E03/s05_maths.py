@@ -1,0 +1,5 @@
+print(7 / 2)
+print(2 ** 3)
+print(0.6 ** 2)
+print(0.8 ** 2)
+print(round(0.8 ** 2, 2))

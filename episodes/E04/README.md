@@ -1,6 +1,6 @@
 # E04: Bits, Binary and Logic Gates
 
-Video: (added after publishing)
+Video: https://youtu.be/Roe_OE_MLyY
 
 ## E03 solution
 1. `try_10000.py`: `range(10000)` gives `{'0': 4960, '1': 5040}` with seed 2026.

@@ -1,6 +1,6 @@
 # E08: Matrices as Gate Tables
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/nqryoerRsY0
 
 ## E07 solution
 1. `try_abs.py`: `abs(5 + 12j)` is the length of the arrow 5 across and 12 up, the same as the vector `[5, 12]` from E06. It prints `13.0`.

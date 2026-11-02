@@ -1,6 +1,6 @@
 # E07: Complex Numbers, From Zero
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/kPTbRsxeeXE
 
 ## E06 solution
 1. `try_length.py`: the length of `[5, 12]` is the square root of 25 + 144 = 169, so 13. `np.linalg.norm` prints `13.0`.

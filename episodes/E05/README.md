@@ -1,6 +1,6 @@
 # E05: Probability and Statistics for Qubits
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/ldnbODlqFXc
 
 ## E04 solution
 1. `try_count31.py`: 0 to 31 in binary with `format(n, '05b')`. 31 is `11111`, so you need 5 places.

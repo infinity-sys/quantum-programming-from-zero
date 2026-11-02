@@ -40,6 +40,7 @@ You should see the circuit drawing and counts close to `{'0': 500, '1': 500}`.
 | E04 | Bits, binary and logic gates | `episodes/E04` |
 | E05 | Probability and statistics for qubits | `episodes/E05` |
 | E06 | Vectors without fear | `episodes/E06` |
+| E07 | Complex numbers, from zero | `episodes/E07` |
 
 ## License
 MIT, see LICENSE.

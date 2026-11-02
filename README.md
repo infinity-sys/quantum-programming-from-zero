@@ -38,6 +38,7 @@ You should see the circuit drawing and counts close to `{'0': 500, '1': 500}`.
 | E02 | Setting up: Python, Qiskit and your first notebook | `episodes/E02` |
 | E03 | The Python you need for quantum computing | `episodes/E03` |
 | E04 | Bits, binary and logic gates | `episodes/E04` |
+| E05 | Probability and statistics for qubits | `episodes/E05` |
 
 ## License
 MIT, see LICENSE.

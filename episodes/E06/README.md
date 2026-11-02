@@ -1,6 +1,6 @@
 # E06: Vectors Without Fear
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/BaGfuxOQz80
 
 ## E05 solution
 1. `try_50000.py`: the same H-gate qubit with seed 2026, now with `50000` shots. The frequency of 0 is `0.50202`, about 0.002 from 0.5 (10000 shots were about 0.003 away).

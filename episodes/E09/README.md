@@ -1,6 +1,6 @@
 # E09: Kets, Bras and the Inner Product
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/ADG3xA-PJBU
 
 ## E08 solution
 1. `try_by_hand.py`: by hand, the first row 1, 2 gives 1·1 + 2·1 = 3 and the second row 3, 4 gives 3·1 + 4·1 = 7. With the `@` sign it prints `[3 7]`.

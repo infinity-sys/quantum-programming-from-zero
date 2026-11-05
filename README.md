@@ -42,6 +42,7 @@ You should see the circuit drawing and counts close to `{'0': 500, '1': 500}`.
 | E06 | Vectors without fear | `episodes/E06` |
 | E07 | Complex numbers, from zero | `episodes/E07` |
 | E08 | Matrices as gate tables | `episodes/E08` |
+| E09 | Kets, bras and the inner product | `episodes/E09` |
 
 ## License
 MIT, see LICENSE.
